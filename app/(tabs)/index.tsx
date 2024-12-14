@@ -8,7 +8,7 @@ import "../../global.css";
 
 export default function HomeScreen() {
   return (
-    <View className="m-11" style={{ backgroundColor: "#fff", flex: 1 }}>
+    <View className="m-10" style={{ backgroundColor: "#fff", flex: 1 }}>
       <Text>Hello There!!!</Text>
     </View>
   );
